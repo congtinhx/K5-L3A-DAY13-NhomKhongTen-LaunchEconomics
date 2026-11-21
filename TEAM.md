@@ -12,7 +12,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyễn Công Tĩnh | 2A202603373 | (điền email) | congtinhx | Kiêm cả bốn vai: người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ |
+|   1 | Nguyễn Công Tĩnh | 2A202603373 | tinh22102004@gmail.com | congtinhx | Kiêm cả bốn vai: người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ |
 
 Bốn vai của lab:
 

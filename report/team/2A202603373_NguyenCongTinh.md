@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Công Tĩnh
 - MSSV: 2A202603373
-- Email: (điền email)
+- Email: tinh22102004@gmail.com
 - Vai trong nhóm: làm một mình nên kiêm cả bốn vai — người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ.
 
 ## 2. Phần việc phụ trách
