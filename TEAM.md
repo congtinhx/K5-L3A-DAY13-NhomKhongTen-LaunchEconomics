@@ -5,14 +5,14 @@
 - Tên nhóm: NhomKhongTen
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY13-NhomKhongTen-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/congtinhx/K5-L3A-DAY13-NhomKhongTen-LaunchEconomics · nhánh `main` · commit chốt: (điền hash commit cuối trước deadline)
+- URL repo, nhánh nộp, commit chốt: https://github.com/congtinhx/K5-L3A-DAY13-NhomKhongTen-LaunchEconomics · nhánh `main` · commit chốt: `bb90185` (bài làm chính; commit sau chỉ cập nhật TEAM.md và MSSV)
 - Ghi chú: nhóm chỉ có **1 thành viên** (làm một mình, đã được người ra đề đồng ý), kiêm cả bốn vai của lab.
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyễn Công Tĩnh | (điền MSSV) | (điền email) | congtinhx | Kiêm cả bốn vai: người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ |
+|   1 | Nguyễn Công Tĩnh | 2A202603373 | (điền email) | congtinhx | Kiêm cả bốn vai: người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ |
 
 Bốn vai của lab:
 
@@ -23,9 +23,9 @@ Bốn vai của lab:
 
 ## Cá nhân
 
-Báo cáo riêng: `report/team/MSSV_NguyenCongTinh.md` (đổi `MSSV` thành MSSV thật).
+Báo cáo riêng: `report/team/2A202603373_NguyenCongTinh.md`.
 
-## NguyenCongTinh-MSSV
+## NguyenCongTinh-2A202603373
 
 ### Phần việc phụ trách
 

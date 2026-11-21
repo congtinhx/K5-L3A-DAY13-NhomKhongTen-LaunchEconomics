@@ -1,11 +1,9 @@
-# Báo cáo cá nhân — NguyenCongTinh-MSSV
-
-> Đổi `MSSV` trong tên file và tiêu đề thành MSSV thật trước khi nộp (ví dụ `2A2026xxxxx_NguyenCongTinh.md`).
+# Báo cáo cá nhân — NguyenCongTinh-2A202603373
 
 ## 1. Thông tin thành viên
 
 - Họ tên: Nguyễn Công Tĩnh
-- MSSV: (điền MSSV)
+- MSSV: 2A202603373
 - Email: (điền email)
 - Vai trong nhóm: làm một mình nên kiêm cả bốn vai — người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ.
 
